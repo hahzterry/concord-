@@ -73,7 +73,7 @@ export default function Landing() {
           <div className="space-y-4 p-6 bg-white/60 rounded-2xl border border-orange-200">
             <div className="text-2xl">🎉</div>
             <p className="text-sm text-gray-700">
-              Welcome! The event community hasn't been set up yet.
+              Welcome! The Privy event community hasn't been set up yet.
               Derek needs to create the community first, then this page will come alive.
             </p>
           </div>
