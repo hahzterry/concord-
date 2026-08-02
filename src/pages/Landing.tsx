@@ -109,7 +109,7 @@ export default function Landing() {
 
         {/* Footer */}
         <p className="text-xs text-gray-400 mt-12">
-          Powered by Nostr · Concord V2
+          Powered by Nostr · LumeeBooth.com
         </p>
       </div>
     </div>
